@@ -1,1 +1,1 @@
-# FDS1
+# Store marks of n students
